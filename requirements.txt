@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-openai
+langchain-experimental
+pymysql
+SQLAlchemy
+streamlit
